@@ -40,3 +40,14 @@ img {
 .lamaws p h1 {
     background-color: white;
 }
+
+footer p {
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width: 800px) {
+    .namae {
+        text-align: center;
+    }
+}
