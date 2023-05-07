@@ -45,3 +45,9 @@ footer p {
     background-color: black;
     color: white;
 }
+
+@media screen and (max-width: 800px) {
+    p {
+        text-align: center;
+    }
+}
