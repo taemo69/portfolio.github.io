@@ -46,6 +46,19 @@ footer p {
     color: white;
 }
 
+img {
+    position: relative;
+    z-index: 1;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
 @media screen and (max-width: 600px) {
     .namae {
         margin-right: 50px;
