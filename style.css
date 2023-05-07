@@ -45,9 +45,3 @@ footer p {
     background-color: black;
     color: white;
 }
-
-@media screen and (max-width: 800px) {
-    .namae {
-        text-align: center;
-    }
-}
