@@ -46,10 +46,9 @@ footer p {
     color: white;
 }
 
-
 @media screen and (max-width: 600px) {
     .namae {
-        margin-right: 100px;
+        margin-right: 50px;
     }
 
     .container {
