@@ -61,12 +61,16 @@ nav {
     z-index: 999;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .namae {
         margin-right: 50px;
     }
 
     .container {
+        text-align: center;
+    }
+
+    .lamaws {
         text-align: center;
     }
 }
