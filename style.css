@@ -37,8 +37,10 @@ img {
     filter: grayscale(0);
 }
 
-.lamaws p h1 {
-    background-color: white;
+.lamaws {
+    background-color: rgba(0, 0, 0, 0.300);
+    padding: 20px 20px;
+    border-radius: 15px;
 }
 
 footer p {
@@ -59,7 +61,7 @@ nav {
     z-index: 999;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .namae {
         margin-right: 50px;
     }
