@@ -86,7 +86,7 @@ nav {
 }
 
 .meow h1 {
-    font-family: Lucida Handwriting;
+    font-family: Lucida Handwriting, Arial;
 }
 
 @media (max-width: 768px) {
