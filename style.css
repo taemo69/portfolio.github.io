@@ -63,19 +63,23 @@ nav {
 .aboutme {
     background-image: url(bg2.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    box-sizing: border-box;
 }
 
 .aboutme h2 {
     text-shadow: 1.5px 1.5px #ffff;
     background-color: white;
     border-radius: 10px;
+    width: 50vh;
 }
 
 .skills {
     background-image: url(bg.jpg);
-    background-size: 100% 100%;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 .dukanan {
