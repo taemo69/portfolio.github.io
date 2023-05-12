@@ -6,7 +6,7 @@ html {
     width: 100%;
 }
 
-body {
+.home {
     background-image: url(bannere.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -56,11 +56,41 @@ nav {
     z-index: 999;
 }
 
+.aboutme {
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.aboutme h2 {
+    text-shadow: 1.5px 1.5px #ffff;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.skills {
+    background-image: url(bg.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.dukanan {
+    height: 70vh;
+    background-image: url(rice.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meow h1 {
+    font-family: Lucida Handwriting;
+}
+
 @media (max-width: 768px) {
     .namae {
         margin-top: 50px;
         margin-right: 100px;
     }
+
 
     .container,
     .lamaws {
